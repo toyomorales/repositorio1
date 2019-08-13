@@ -12,6 +12,9 @@ public class Repositorio {
      */
     public static void main(String[] args) {
         System.out.println("Este es el primer reporsitorio");
+        System.out.println("Hola carito");
+        
+        
     }
     
 }
